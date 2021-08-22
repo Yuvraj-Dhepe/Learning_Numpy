@@ -1,7 +1,7 @@
 # Learning Numpy
 Includes all the resources and files helpful for doing the numpy course.
 
-###Structure of the folders
+### Structure of the folders
 - Exercise: Includes all the exercise .ipynb files per episode in the course.
 It was practiced simultaneously doing the course.
 - Notes: Includes all the examples covered in the course in form of .ipynb format.
